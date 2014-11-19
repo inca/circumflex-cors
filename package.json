@@ -1,0 +1,37 @@
+{
+  "name": "circumflex-cors",
+  "version": "0.0.1",
+  "description": "Middleware for Cross-Origin Resource Sharing headers",
+  "dependencies": {
+    "express": "*",
+    "multiparty": "*",
+    "body-parser": "*",
+    "stringex": "*",
+    "flatmap": "*",
+    "moment": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "async": "*",
+    "request": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inca/circumflex-request"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "request"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inca/circumflex-request/issues"
+  },
+  "homepage": "https://github.com/inca/circumflex-request"
+}
