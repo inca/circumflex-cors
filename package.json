@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "Middleware for Cross-Origin Resource Sharing headers",
   "devDependencies": {
+    "express": "4.x.x",
     "async": "*",
     "request": "*"
   },
